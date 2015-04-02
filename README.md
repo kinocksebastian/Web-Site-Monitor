@@ -4,11 +4,11 @@ Simple Python script to monitor updates on websties and tweet when update is hap
 Introduction
 ------------
 The files are :
-1.siteComp.py - The main script
-2.accessTokens - This File contains accessToken for twitter
-3.consumerKeys - This File contains consumer token for Twitter
-4.hashFile - This is the file used to store md5 hash of website
-5.siteList.txt
+1. siteComp.py - The main script 
+2. accessTokens - This File contains accessToken for twitter
+3. consumerKeys - This File contains consumer token for Twitter
+4. hashFile - This is the file used to store md5 hash of website
+5. siteList.txt
 
 How To Run
 ----------
